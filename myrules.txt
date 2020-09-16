@@ -1,0 +1,20 @@
+[AutoProxy 0.2.9]
+! Checksum: JCajCLOSj9hI5LnxWfPg+A
+! Expires: 6h
+! Title: GFWList4LL
+! GFWList with EVERYTHING included
+! Last Modified: Sat, 18 Jul 2020 20:17:45 -0400
+!
+! HomePage: https://github.com/gfwlist/gfwlist
+! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+!
+! GFWList is unlikely to fully comprise the real
+! rules being deployed inside GFW system. We try
+! our best to keep the list up to date. Please
+! contact us regarding URL submission / removal,
+! or suggestion / enhancement at issue tracker:
+! https://github.com/gfwlist/gfwlist/issues/.
+
+!---------403/451/520 & URL Redirects---------
+!--ehentai
+|https://ifconfig.me/
